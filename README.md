@@ -1,3 +1,5 @@
+
+<img width="566" alt="one35" src="https://github.com/user-attachments/assets/6752d648-af41-45ef-9727-81f6ee96d869" />
 # Study the effect of various fault orientations for a tunnel
 
 This repository contains the work done for a course project in the course MAE6755 Finite Element Method: Theory and Applications in Mechanics and Multiphysics (Cornell University, Spring 2025). The project aims to study Cavity failure in homogeneous and fractured media. The simulations were performed using [MOOSE](https://mooseframework.inl.gov/), and the primary objective was to determine conditions under which the rock yields in **tension or shear**. The geometry files were prepared and meshed using the tool gmsh (https://gmsh.info). 
