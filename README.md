@@ -77,9 +77,13 @@ This repository contains the work done for a course project in the course MAE675
 ## How to Navigate this directory?
 
 -The master directory contains four folders one for each step mentioned in the problem above. 
+
 -step1a folder subfolders for figures, data and codes. 
+
 -step1b folder has same three subfolders for data, figures and codes. Codes for all the three rock types are present in the same folder 1bcodes but the figures and data are further in the folders names after the rock type. 
+
 -step2 folder contains a subfolder for all the codes and folder corresponding to each value of k for which the simulation was run and then this further inside has a folder for each value of depth which contains all the data and figures related to that simulation. 
+
 -same structure is followed for the step3 folder with one35 denotes fault at 135 degree orientation fortyf denotes the folder for 45 degree orientation, hfault contains the data for horizontal fault. 
 
 
