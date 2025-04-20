@@ -1,6 +1,6 @@
 # Study the effect of various fault orientations for a tunnel
 
-This repository contains the work done for a course project in the course MAE6755 Finite Element Method: Theory and Applications in Mechanics and Multiphysics (Cornell University, Spring 2025). The project aims at evaluating **rock mass stability around a circular tunnel** under various stress conditions and fault configurations. u. The simulations were performed using [MOOSE](https://mooseframework.inl.gov/), and the primary objective was to determine conditions under which the rock yields in **tension or shear**. The geometry files were prepared and meshed using the tool gmsh (https://gmsh.info). 
+This repository contains the work done for a course project in the course MAE6755 Finite Element Method: Theory and Applications in Mechanics and Multiphysics (Cornell University, Spring 2025). The project aims to study Cavity failure in homogeneous and fractured media. The simulations were performed using [MOOSE](https://mooseframework.inl.gov/), and the primary objective was to determine conditions under which the rock yields in **tension or shear**. The geometry files were prepared and meshed using the tool gmsh (https://gmsh.info). 
 
 ## Given Information 
 
